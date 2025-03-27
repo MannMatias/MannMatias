@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Java & React | Software Architect Enthusiast**  
 💡 Passionate about building scalable systems, optimizing code, and solving real-world problems.  
-🎯 Always eager to learn new technologies and take on challenging projects.  
+🎯 Always ready to learn new technologies and take on challenging projects.  
 
 ---
 
