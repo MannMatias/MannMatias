@@ -5,6 +5,9 @@
 🎯 Always ready to learn new technologies and take on challenging projects.  
 
 ---
+### 🎓 Academic Background
+**Systems Engineering** | Universidad Tecnologica Nacional (UTN)
+I am actively participating in an extensive program centered on software development and integrated systems, dedicated to keeping up with the latest technological innovations and industry trends.
 
 ## 🔧 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
