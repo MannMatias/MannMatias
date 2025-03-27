@@ -6,7 +6,8 @@
 
 ---
 ### 🎓 Academic Background
-**Systems Engineering** | Universidad Tecnologica Nacional (UTN)
+**Advanced Systems Engineering Student** | Universidad Tecnologica Nacional (UTN)
+
 I am actively participating in an extensive program centered on software development and integrated systems, dedicated to keeping up with the latest technological innovations and industry trends.
 
 ## 🔧 Tech Stack & Tools
