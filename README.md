@@ -33,8 +33,8 @@
 ---
 
 ## 📫 Connect with me
-✉️ **Email:** [tu-email@example.com](mailto:matiasimann@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/matias-mann)  
+✉️ **Email:** [matiasimann@gmail.com](mailto:matiasimann@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/matias-mann](https://linkedin.com/in/matias-mann)  
 
 ---
 
