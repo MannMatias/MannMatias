@@ -6,12 +6,6 @@
 
 ---
 
-## 🎓 Academic Background
-
-** Advanced Systems Engineering Student ** | Universidad Tecnologica Nacional (UTN)
-I am actively participating in an extensive program centered on software development and integrated systems, dedicated to keeping up with the latest technological innovations and industry trends.
----
-
 ## 🔧 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
