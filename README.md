@@ -22,14 +22,6 @@ I am actively participating in an extensive program centered on software develop
 
 ---
 
-## 📌 Featured Projects
-
-### 🍽️ Order Management System  
-🔗 [Repo](https://github.com/MannMatias/gestion-pedidos)  
-📦 A Front-End app using **HTML, CSS, and JavaScript** to manage food orders, with **localStorage and DOM manipulation**.  
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MannMatias&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannMatias&layout=compact&theme=radical)
